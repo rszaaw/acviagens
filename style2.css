@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#title{
+    color: white;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+
+}
+header{
+    background-color: orangered;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+#linkvoltar{
+    text-decoration: none;
+    color: black;
+    font-weight: 600
+}
+#linkvoltar:hover{
+    color: white;
+    background-color: orangered;
+}
